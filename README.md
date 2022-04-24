@@ -4,6 +4,7 @@ open source projects based project
 
 - pitchTracker:
   - c++ based pitch tracker
+  - Applied FastYIN theory based on YIN pitch detection theory - Using FFT for Autocorrelation and Difference to speed up the calculation.
 
 - fluidsynth:
   - Version: 1.1.11
@@ -18,7 +19,9 @@ open source projects based project
 # Reference:
 
 - pitchTracker:
-  - Based project: [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
+  - Based project: 
+        1. [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
+        2. [sevagh/pitch-detection](https://github.com/sevagh/pitch-detection/tree/master/misc/yin)
   - [Yin](http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf)
   - [PYin](https://www.eecs.qmul.ac.uk/~simond/pub/2014/MauchDixon-PYIN-ICASSP2014.pdf)
   - [MPM](https://www.cs.otago.ac.nz/students/postgrads/tartini/papers/A_Smarter_Way_to_Find_Pitch.pdf)
@@ -33,4 +36,3 @@ open source projects based project
   - [PPQN](http://midi.teragonaudio.com/tech/midifile/ppqn.htm)
   - [MIDI system exclusive message](https://www.recordingblogs.com/wiki/midi-system-exclusive-message)
   - [MIDI 1.0 Universal System Exclusive Messages](https://www.midi.org/specifications-old/item/table-4-universal-system-exclusive-messages)
-  
