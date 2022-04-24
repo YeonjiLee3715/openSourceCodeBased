@@ -20,8 +20,8 @@ open source projects based project
 
 - pitchTracker:
   - Based project: 
-        1. [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
-        2. [sevagh/pitch-detection](https://github.com/sevagh/pitch-detection/tree/master/misc/yin)
+    1. [TarsosDSP](https://github.com/JorenSix/TarsosDSP)
+    2. [sevagh/pitch-detection](https://github.com/sevagh/pitch-detection/tree/master/misc/yin)
   - [Yin](http://audition.ens.fr/adc/pdf/2002_JASA_YIN.pdf)
   - [PYin](https://www.eecs.qmul.ac.uk/~simond/pub/2014/MauchDixon-PYIN-ICASSP2014.pdf)
   - [MPM](https://www.cs.otago.ac.nz/students/postgrads/tartini/papers/A_Smarter_Way_to_Find_Pitch.pdf)
